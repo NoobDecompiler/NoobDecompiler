@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**NoobDecompiler/NoobDecompiler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi Nasa Hacker 👋
 
 Here are some ideas to get you started:
 
@@ -14,4 +11,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Make Fun By Complete Hardest Challenge
 
 -- I Don't Know England 🤧 Teach Me
--->
